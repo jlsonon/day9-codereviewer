@@ -49,6 +49,9 @@ ai-code-reviewer/
 ├── .env                # API Key (not included)  
 └── README.md           # Documentation
 ```
+
+---
+
 ## Deployment
 - Easily deploy on Hugging Face Spaces.
 - Deployment Demo: https://huggingface.co/spaces/jlsonon/day9-codereview
@@ -57,9 +60,7 @@ ai-code-reviewer/
 ## Author
 
 ### Jericho Sonon
-
 #### Medium: medium.com/@jlsonon12
-
 #### GitHub: github.com/jlsonon
-
 #### LinkedIn: linkedin.com/in/jlsonon
+
