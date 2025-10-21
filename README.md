@@ -21,7 +21,6 @@ An AI-powered code reviewer that can summarize, explain, and improve any code in
 - Environment: Python 3.10+, dotenv for secure key management  
 
 ---
-
 ## Setup
 ```bash
 git clone https://github.com/jlsonon/ai-code-reviewer.git
@@ -63,4 +62,5 @@ ai-code-reviewer/
 #### Medium: medium.com/@jlsonon12
 #### GitHub: github.com/jlsonon
 #### LinkedIn: linkedin.com/in/jlsonon
+
 
